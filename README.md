@@ -1,4 +1,4 @@
-# Analysis of key risks mentioned in Mark Carney speeches
+# 📑🎙️ Analysis of key risks mentioned in Mark Carney speeches 🎙️📑
 
 This repository involved coducting natural language processing (NLP) analysis of Mark Carney's speeches sourced from the Bank of England website.
 
